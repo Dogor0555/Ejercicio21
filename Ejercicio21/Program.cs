@@ -17,7 +17,7 @@ class Program
 
         Console.WriteLine("La suma es: " + suma);
         Console.WriteLine("La resta es: " + resta);
-        Console.WriteLine("La multiplicación es: " + multiplicacion);
+        Console.WriteLine("La multiplicación ess: " + multiplicacion);
         Console.WriteLine("La división es: " + division);
     }
 }
